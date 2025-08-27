@@ -1,1 +1,2 @@
-Hi venkat i am learning devops git commands
+Hi venkat i am learning devops git command
+Thanks venkat for doing practicatls with me!
